@@ -5,3 +5,4 @@
 ### 2). Gaussian Process Regression and comparison to single hidden layer with infinite nodes clearly explained by Professor Pascal Poupart - https://www.youtube.com/watch?v=exqpaqaPG2M&ab_channel=PascalPoupart
 ### 3). Understanding ML hyper parameter optimization techniques through visuals - http://aad.informatik.uni-freiburg.de/~hutter/ML2.pdf
 ### 4). Implementing SMBO(sequential model based optimization) using Tree Parzen Estimator through Hyper-Opt - https://blog.dominodatalab.com/hyperopt-bayesian-hyperparameter-optimization/
+### 5). Cross Entropy for Importance Sampling while selecting hyper parameter, reducing time complexity - https://core.ac.uk/download/pdf/46768228.pdf
