@@ -7,4 +7,4 @@
 ### 4). Implementing SMBO(sequential model based optimization) using Tree Parzen Estimator through Hyper-Opt - https://blog.dominodatalab.com/hyperopt-bayesian-hyperparameter-optimization/
 ### 5). Cross Entropy for Importance Sampling while selecting hyper parameter, reducing time complexity - https://core.ac.uk/download/pdf/46768228.pdf
 ### 6). Clear Understanding of LSTM - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-### 7). Key concepts and practical explaination of RNN's and LSTM by Andre Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+### 7). Key concepts and practical explaination of Vanilla RNN and Stacked LSTM by Andre Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
