@@ -6,5 +6,7 @@
 ### 3). Understanding ML hyper parameter optimization techniques through visuals - http://aad.informatik.uni-freiburg.de/~hutter/ML2.pdf
 ### 4). Implementing SMBO(sequential model based optimization) using Tree Parzen Estimator through Hyper-Opt - https://blog.dominodatalab.com/hyperopt-bayesian-hyperparameter-optimization/
 ### 5). Cross Entropy for Importance Sampling while selecting hyper parameter, reducing time complexity - https://core.ac.uk/download/pdf/46768228.pdf
-### 6). Clear Understanding of LSTM - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-### 7). Key concepts and practical explaination of Vanilla RNN and Stacked LSTM by Andre Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+## Deep Learning using memory based neural networks:
+### 1). Clear Understanding of LSTM - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+### 2). Key concepts and practical explaination of Vanilla RNN and Stacked LSTM by Andre Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
